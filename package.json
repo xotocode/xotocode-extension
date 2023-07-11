@@ -3,6 +3,10 @@
     "displayName": "xotocode-extension",
     "description": "xotocode-extension",
     "version": "0.0.0",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/xotocode/xotocode-extension"
+    },
     "engines": {
         "vscode": "^1.80.0"
     },
