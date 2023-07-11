@@ -4,6 +4,7 @@
     "description": "xotocode-extension",
     "version": "0.0.0",
     "publisher": "xotosphere",
+    "license": "SEE LICENSE IN LICENSE .md",
     "repository": {
         "type": "git",
         "url": "https://github.com/xotocode/xotocode-extension"
@@ -14,6 +15,10 @@
     "categories": [
         "Extension Packs"
     ],
+    "devDependencies": {
+        "prettier": "^1.19.1",
+        "vsce": "^1.71.0"
+    },
     "icon": "icon.png",
     "extensionPack": [ 
         "adam-bender.commit-message-editor", 
