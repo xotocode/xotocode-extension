@@ -1,6 +1,6 @@
 # xotocode-extension 🔥
 
-<img src="https://github.com/xotocode/xotocode-extension/raw/master/preview.png" alt="Preview">
+<img src="https://github.com/xotocode/xotocode-extension/raw/development/preview.png" alt="Preview">
 
 ## installation
 
